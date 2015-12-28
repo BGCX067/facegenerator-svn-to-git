@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/base/opengl/gluegen-rt-natives-linux-amd64.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/gluegen-rt-natives-linux-i586.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/gluegen-rt-natives-macosx-ppc.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/gluegen-rt-natives-macosx-universal.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/gluegen-rt-natives-windows-amd64.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/gluegen-rt-natives-windows-i586.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/gluegen-rt.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/jogl-natives-linux-amd64.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/jogl-natives-linux-i586.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/jogl-natives-macosx-ppc.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/jogl-natives-macosx-universal.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/jogl-natives-windows-amd64.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/jogl-natives-windows-i586.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/jogl.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/opengl/opengl.jar" sourcepath="/Applications/Processing.app/Contents/Resources/Java/libraries/opengl/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/opengl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/ant-launcher.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/ant.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/base/core/core.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/base/core"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/fullscreen/fullscreen.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/user/fullscreen"/>
+			<attribute name="javadoc_location" value="file:/Users/vghost/Documents/Processing/libraries/fullscreen/reference/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/OBJLoader/OBJLoader.jar" sourcepath="/Users/vghost/Documents/Processing/libraries/OBJLoader/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/user/OBJLoader"/>
+			<attribute name="javadoc_location" value="file:/Users/vghost/Documents/Processing/libraries/OBJLoader/reference/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/oscP5/oscP5.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/user/oscP5"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/user/peasycam/PeasyCam.jar" sourcepath="/Users/vghost/Documents/Processing/libraries/peasycam/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="testApp/lib/user/peasycam"/>
+			<attribute name="javadoc_location" value="file:/Users/vghost/Documents/Processing/libraries/peasycam/reference/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
